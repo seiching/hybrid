@@ -1,0 +1,8 @@
+{
+    "flask": {
+        "image": ":hybrid.hybrid.2",
+        "ports": {
+            "8000": "HTTP"
+        }
+    }
+}
