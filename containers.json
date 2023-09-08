@@ -1,6 +1,6 @@
 {
     "flask": {
-        "image": ":hybrid.hybrid.2",
+        "image": ":hybrid.hybrid.3",
         "ports": {
             "8000": "HTTP"
         }

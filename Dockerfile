@@ -1,9 +1,9 @@
 # Set base image (host OS)
 FROM python:3.8-alpine
 # set environment variable
-ENV LINE_CHANNEL_ACCESS_TOKEN= 
-ENV LINE_CHANNEL_SECRET= 
-ENV OPENAI_API_KEY= 
+ENV LINE_CHANNEL_ACCESS_TOKEN=
+ENV LINE_CHANNEL_SECRET=
+ENV OPENAI_API_KEY=
 # By default, listen on port 5000
 EXPOSE 5000/tcp
 
